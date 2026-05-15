@@ -81,7 +81,7 @@ React Dashboard
 ## Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/TaufiqSameer/packet_sniffer.git
 ```
 
 ---
